@@ -1,0 +1,62 @@
+.main{
+    height: 60%;
+    width: 23%;
+    border: 1px solid;
+    margin-top: 12%;
+    border-radius: 0.5rem;
+    background-color: white;
+    padding: 15px;
+}
+img{
+    margin-right: 16.25rem;
+    margin-top: 1rem;
+}
+h1{
+    margin-right: 1rem;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.street{
+    margin-right: 11rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.no{
+    margin-right: 9.125rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.head1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-right: 15.75rem;
+}
+.in{
+    color: orangered;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 7.125rem;
+}
+.out{
+    margin-right: 10.625rem;
+    color: orangered;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: #E1ECC8;
+}
+.align {
+    line-height: 0.625rem;
+}
+.head2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-right: 15.3125rem;
+}
+#email{
+    line-height: 0.625rem;
+    padding: 10px;
+}
+#phone{
+    line-height: 0.625rem;
+}
+
